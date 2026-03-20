@@ -1,16 +1,7 @@
-title: 我的主页
-author: admin
-description: 个人技术博客
-lang: zh-CN
+title: 我的技术空间
+description: 记录 Web 开发与网络配置
+remote_theme: pages-themes/minimal@v0.2.0
 
-remote_theme: remote_theme: pages-themes/minimal@v0.2.0
-
-# 确保下面这两行没有写错，且冒号后面有空格
+# 这里的冒号后面必须有空格，且网址建议加双引号
 url: "https://你的用户名.github.io"
 baseurl: ""
-
-# Chirpy 主题需要的必备插件
-plugins:
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-archives
