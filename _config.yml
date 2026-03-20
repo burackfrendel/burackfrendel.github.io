@@ -3,7 +3,7 @@ author: admin
 description: 个人技术博客
 lang: zh-CN
 
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: remote_theme: pages-themes/minimal@v0.2.0
 
 # 确保下面这两行没有写错，且冒号后面有空格
 url: "https://你的用户名.github.io"
