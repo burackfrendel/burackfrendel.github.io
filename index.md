@@ -18,6 +18,7 @@ title: Burack Frendel 的技术空间
 ---
 
 ### 📂 核心项目展示
+![测试图片1](images/test 1.jpg)
 
 #### [项目一：SUI 网络节点配置]
 > 详细记录了如何利用个人域名实现 HTTPS 加密的 SUI 面板访问。
