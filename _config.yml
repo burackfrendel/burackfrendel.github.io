@@ -1,7 +1,11 @@
-title: Burack Frendel 的空间
-description: 记录 Web 开发与网络配置
+# 站点全局设置
+title: "Burack Frendel | Blog"
+description: "记录 Web 基础设施、SSL 证书维护与网络开发的个人空间。"
 remote_theme: pages-themes/hacker@v0.2.0
 
-# 必须确保下面这两行正确，尤其是 url 里的用户名
+# 基础链接
 url: "https://burackfrendel.github.io"
 baseurl: ""
+
+# 社交链接（可选）
+github_username: burackfrendel
