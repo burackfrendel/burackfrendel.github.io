@@ -1,3 +1,18 @@
-title: 我的个人主页
-description: 欢迎来到我的技术空间
-remote_theme: pages-themes/minimal@v0.2.0
+# 站点基本信息
+title: "Burack Frendel | 技术空间"
+author: "Burack Frendel"
+description: "专注于 Web 基础设施与网络开发"
+lang: zh-CN
+
+# 主题选择：这里我们使用远程主题模式
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+# 网页设置
+timezone: Asia/Shanghai
+paginate: 10
+
+# 排除不需要的文件
+exclude:
+  - vendor
+  - .travis.yml
+  - .editorconfig
