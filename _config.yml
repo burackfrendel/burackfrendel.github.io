@@ -1,18 +1,16 @@
-# 站点基本信息
-title: "Burack Frendel | 技术空间"
-author: "Burack Frendel"
-description: "专注于 Web 基础设施与网络开发"
+title: 我的主页
+author: admin
+description: 个人技术博客
 lang: zh-CN
 
-# 主题选择：这里我们使用远程主题模式
 remote_theme: cotes2020/jekyll-theme-chirpy
 
-# 网页设置
-timezone: Asia/Shanghai
-paginate: 10
+# 确保下面这两行没有写错，且冒号后面有空格
+url: "https://你的用户名.github.io"
+baseurl: ""
 
-# 排除不需要的文件
-exclude:
-  - vendor
-  - .travis.yml
-  - .editorconfig
+# Chirpy 主题需要的必备插件
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-archives
