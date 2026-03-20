@@ -1,12 +1,7 @@
 ---
 layout: home
-title: 我的个人主页
+title: 首页
 ---
 
-# 欢迎来到我的技术空间
-
-这是我的第一个 GitHub Pages 页面！
-
-### 当前配置
-- **主题引擎:** Jekyll
-- **托管平台:** GitHub Pages
+# 欢迎来到我的主页
+这里是内容区。
